@@ -3,6 +3,8 @@ To enable avro and bijoy to unijoy and unijoy with tinymce editer in wordpress s
 Complete Bangla Type in WP !
 just plug and play
 
+![thumbnail_wp tinymce bangla](/thumbnail_original?raw=true "thumbnail_wp tinymce bangla")
+
 ### Warning!
 This is project is for experimental/research purpose.
 Feel free to use avro without any restriction.
